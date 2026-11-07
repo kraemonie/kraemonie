@@ -18,7 +18,6 @@ kriz = {
     "location": "Lipa City, Philippines",
     "focus": ["Python", "Web apps", "Android"],
     "currently_building": ["Sift", "Print shop order system"],
-    "fun_fact": "I also make TikTok content",
 }
 ```
 
@@ -34,6 +33,3 @@ kriz = {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
 
-## Contact
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
