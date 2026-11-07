@@ -1,7 +1,7 @@
 <h1 align="center">kraemonie</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kriz+%F0%9F%91%8B;Student+Developer;Building+small+useful+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=0E75B6&center=true&vCenter=true&width=500&height=40&lines=Hi%2C+I'm+Kriz+%F0%9F%91%8B;Student+Developer;Python+%7C+Web+%7C+Android;Building+small+useful+apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,6 @@
 kriz = {
     "name": "Kriz",
     "role": "Student Developer",
-    "location": "Lipa City, Philippines",
     "focus": ["Python", "Web apps", "Android"],
     "currently_building": ["Sift", "Print shop order system"],
 }
@@ -32,4 +31,3 @@ kriz = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
-
