@@ -20,10 +20,6 @@ kriz = {
 }
 ```
 
-## Projects
-
-- **[Sift](https://github.com/kraemonie/sift)**: offline Android app for image/audio compression using SVD
-- **Print shop order system**: customer upload page + admin page
 
 ## Tech
 
